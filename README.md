@@ -1,7 +1,7 @@
 # Hi, I'm Azeem Mustafa 👋 
 **Full-Stack Developer | AI & Machine Learning Enthusiast | Privacy Advocate**
 
-I am a software developer and student dedicated to building high-performance, privacy-first applications. My work spans from low-level systems in C++ to modern AI-integrated web platforms using Python and React.
+I am a AI Engineer and student dedicated to building high-performance, privacy-first applications. My work spans from low-level systems in C++ to modern AI-integrated web platforms using Python and React.
 
 ---
 
