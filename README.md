@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Azeem Mustafa 👋 
 **Full-Stack Developer | AI & Machine Learning Enthusiast | Privacy Advocate**
 
